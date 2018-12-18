@@ -126,8 +126,13 @@ a
        background:#8B0000;
        border-radius:50%;
        color: #FFFAFA;
-       padding:  15px 18px;}
-       .avatar:hover {
+       padding:  15px 18px;
+       cursor:pointer;
+
+}
+       .avatar:hover 
+
+{
               background-color:#FFFAFA;
               color:#8B0000;
               }
@@ -190,7 +195,7 @@ a
        width: inherit;
        color: #BC8F8F;
        border-bottom:   0.3px solid  #C0C0C0;
-              
+       cursor:pointer;       
       }
       .text:hover {
        background-color:#FFFAFA;
